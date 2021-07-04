@@ -44,7 +44,7 @@ h2{
     background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    bap
+    
 }
 .experience-item{
     width:40%;
@@ -54,4 +54,18 @@ h2{
     padding-right: 20px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
+}
+#web-dev-exp{
+    border-image: linear-gradient(#fc9576,#ff6b57,#fc6352 );
+    border-left: 10px solid;
+    border-image-slice: 1;
+}
+#baby-exp{
+    border-left:7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    color:rgb(77, 73, 73);
 }
