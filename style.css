@@ -10,3 +10,11 @@ h1{
 section{
     display: flex;
 }
+.half-width{
+    width: 50% ;
+    padding-left: 5%;
+}
+.half-width img{
+        width: 85%;
+        padding-left: 10%;
+}
